@@ -1,0 +1,352 @@
+BODY
+{
+    font-family: Arial;
+    padding: 1px;
+    width: 100%;
+   /* float: left;*/
+    /*overflow: hidden;*/
+}
+A
+{
+	text-decoration: none;
+	font-size: smaller;
+	/*color: #A0BFED;*/
+    color: darkgreen;
+}
+A:Hover
+{
+	color:#FA4802;
+}
+.Win TD
+{
+
+	padding:0px;
+	padding-top:2px;
+	padding-bottom:2px;
+	color:white;
+}
+Input
+{
+	border: solid 1px #596275;
+	margin-left: 0px;
+}
+.Btn
+{
+	background:#FFFFFD url(Imgs/Btn.gif) repeat-x bottom left;
+}
+.BtnHelp, .ToolBar .BtnHelp, .ToolBar .BtnHelp:Hover, .BtnHelp:Hover
+{
+	background:#FF723B url(Imgs/BtnHelp.gif) repeat-x bottom left;
+	color:#FFF;
+	font-weight:bold;
+	padding-left:3px;
+	padding-right:3px;
+	text-decoration:none;
+	border:solid 1px #596275;
+}
+
+.Dots
+{
+	border-bottom:dotted 1px #B4AE98;
+}
+Img
+{
+	border:0;
+}
+.Win
+{
+	background:#000066;
+	border:solid 1px #000;
+	color:#FFF;
+	/*width: 707px;*/
+    width: 100%;
+}
+.WinBlue
+{
+	background:#0000ff;
+	border:solid 1px #000;
+	color:#FFF;
+	/*width: 707px;*/
+    width: 100%;
+    height: 100%;
+}
+.WinBlueB
+{
+	background:#0000ff;
+	border:solid 1px #000;
+	color:#FFF;
+	width: 100%;
+    height: 100%;
+}
+.WhiteWin
+{
+	background: #FFF;
+	border: solid 1px #000;
+	width: 100%;
+}
+.WinBar, .WhiteWin .WinBar
+{
+	background: #A0BFED url(Imgs/WinBar.gif) repeat-x top left;
+	color: White;
+	padding: 1px;
+	padding-left: 3px;
+	font-family: Arial;
+	font-size: smaller;
+	border-bottom: solid 1px #000;
+	height: 20px;
+	width: 100%;
+}
+.WhiteWin2
+{
+	background: #A0BFED url(Imgs/WinBar.gif) repeat-x top left;
+	color: black;
+	padding: 1px;
+	padding-left: 0px;
+	font-family: Arial;
+	font-size: medium;
+	border-bottom: solid 1px #000;
+	height: 40px;
+	width: 100%;
+}
+
+ .WhiteWin2 td { 
+        
+    }
+.TtlBar
+{
+	background: #B10000;
+	color:White;
+	padding:0px;
+	font-size:smaller;
+	border-bottom:solid 3px #800;/*#DE683A;*/
+	height:66px;
+}
+.Contents
+{   
+    width: auto;
+	padding:2px;
+}
+#wHelp, .Help
+{
+	display: none;
+	margin: 2px;
+	height: 90%;
+	width: auto;
+    height: auto;
+	border: solid 1px #D4CAA5;
+	float: none;
+}
+#wPnlErr, .Err
+{
+	background:#FDFAF0 url(Imgs/Error.gif) no-repeat center left;
+	border:solid 1px #D4CAA5;
+	padding:5px;
+	padding-left:25px;
+	color:#000;
+	margin:10px;
+	text-align:left;
+	height:60px;
+	width:100%;
+}
+
+.ToolBar
+{
+	background:#F4EED8 url(Imgs/WinBg.gif) repeat-x bottom left;
+	border:solid 1px #D4CAA5;
+	padding:2px;
+	padding-bottom:4px;
+	margin:2px;
+	color:Black;
+}
+.ToolBar Input
+{
+	margin-right:10px;
+}
+.ToolBar Select
+{
+	margin-right:10px;
+}
+.ToolBar Img
+{
+	vertical-align:middle;
+}
+.ToolBar A, .Toolbar Span
+{
+	font-size: large;
+	/*color:#000;*/
+    color: white;
+	/*padding:5px;*/
+	padding-top:2px;
+	padding-bottom:2px;
+	/*background-color:#F4EED8;*/
+	/*border:solid 1px #F4EED8;
+	width: 100%;
+    min-width: 480px;
+	height: 20%;
+	border: inset;
+	border-width:medium;
+	background-image: url(Imgs/menu_listbg.png);*/
+    
+    
+    
+}
+.ToolBar A:Hover
+{
+	color:#000;
+	border-top-color: #FFF;
+	border-left-color: #FFF;
+	border-bottom-color: #89806D;
+	border-right-color: #89806D;
+}
+
+/* Added style for mobile app links to not show different colors when visited
+    */
+
+.Toolbar A:visited
+{
+    color:white;
+}
+.Toolbar .Disabled
+{
+	color:white;
+}
+/*for mobile display*/
+.menu_list
+{
+    color: white;
+    padding-left: 0px;
+    padding-bottom: 2px;
+    width: 100%;
+    background-image: url(Imgs/menu_listbg.png);
+    background-repeat: repeat-x;
+	height: 30%;
+	border: inset;
+	border-bottom-width:medium;
+	background-image: url(Imgs/menu_listbg.png)
+}
+
+ .menu_list A:visited
+  {
+     color: white;
+   }
+.RequestBar
+{
+	background:#F4EED8 url(Imgs/WinBg.gif) repeat-x bottom left;
+	border:solid 1px #D4CAA5;
+	padding:2px;
+	padding-bottom:4px;
+	margin:2px;
+}
+.RequestBar Input
+{
+	margin-right:10px;
+}
+.RequestBar Select
+{
+	margin-right:10px;
+}
+.RequestBar Img
+{
+	vertical-align:middle;
+}
+.RequestBar A:Hover
+{
+	color:#000;
+	border-top-color: #FFF;
+	border-left-color: #FFF;
+	border-bottom-color: #89806D;
+	border-right-color: #89806D;
+}
+.Requestbar .Disabled
+{
+	color:Gray;
+}
+.Info
+{
+	background:#D4E2F8 url(Imgs/Info.gif) center left no-repeat;
+	border:solid 1px #98ACCE;
+	height:60px;
+	padding:2px;
+	padding-bottom:4px;
+	padding-left:50px;
+	margin:2px;
+	text-align:left;
+	color:#000;
+	width:auto;
+}
+
+H1
+{
+	background:#DFD5B0 url(Imgs/DtlBarTan.gif) repeat-x top left;
+	margin:0;
+	border-left:solid 1px #C0B9A1;
+	/*padding:3px;*/
+	font-size:smaller;
+}
+.InfWrap2
+{
+	border:solid 1px #D2CAAE;
+	color:Black;
+}
+.InfWrap2 Div
+{
+	color:Black;
+	padding:10px;
+	padding-left:50px;
+	text-align:left;
+	color:#444;
+	height:auto;
+    width: auto;
+	border-bottom: dashed 1px #D2CAAE;
+}
+.InfWrap3
+{
+	border:solid 1px #D2CAAE;
+	color:Black;
+}
+.InfWrap3 Div
+{
+	color:Black;
+	padding:10px;
+	padding-left:50px;
+	text-align:left;
+	color:#444;
+	border-bottom:dashed 1px #D2CAAE;
+}
+.InfWrap
+{
+	border:solid 1px #D2CAAE;
+	width:auto;
+	color:Black;
+}
+.InfWrap Div
+{
+	color:Black;
+	padding:10px;
+	padding-left:50px;
+	text-align:left;
+	color:#444;
+	height:70px;
+	border-bottom:dashed 1px #D2CAAE;
+}
+
+/*iframe {
+    background-color: transparent;
+    border: 0px none transparent;
+    padding: 0px;
+    overflow: hidden;
+}*/
+
+.scroller {
+    /*overflow: auto;*/
+    -webkit-overflow-scrolling: touch;
+    height: auto;
+    
+    
+}
+
+
+
+@-viewport {
+width: 100%;
+}

@@ -1,0 +1,504 @@
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\HomeBankingSite.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\HomeBankingSite.pdb
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\HomeBankingSite.xml
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Login.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Password.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.LockAccount.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.xml
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Tf.All.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Interop.INKLib.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Interop.SIGPLUSLib.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\AxInterop.SIGPLUSLib.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Interop.CMCalcEngLib.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\tf.Zip.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Interop.tfXML.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\AxInterop.INKLib.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Tf.All.pdb
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Tf.All.xml
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\tf.Zip.pdb
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\HomeBankingSite.dll
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\HomeBankingSite.pdb
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\HomeBankingSite.xml
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Tf.All.dll
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Interop.INKLib.dll
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Interop.SIGPLUSLib.dll
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\AxInterop.SIGPLUSLib.dll
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Interop.CMCalcEngLib.dll
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\tf.Zip.dll
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Interop.tfXML.dll
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\AxInterop.INKLib.dll
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Tf.All.pdb
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\Tf.All.xml
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Login.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Password.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.LockAccount.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.dll
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.xml
+I:\TFS\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.XmlSerializers.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.All.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\Interop.INKLib.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\AxInterop.INKLib.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\CMDotNetEng.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\Interop.tfXML.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\AxInterop.SIGPLUSLib.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\tf.Zip.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\Interop.SIGPLUSLib.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.All.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.All.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.XmlSerializers.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.XmlSerializers.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.pdb
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.xml
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.All.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\Interop.INKLib.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\AxInterop.INKLib.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\CMDotNetEng.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\Interop.tfXML.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\AxInterop.SIGPLUSLib.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\tf.Zip.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\Interop.SIGPLUSLib.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.All.pdb
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.All.xml
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.dll
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.xml
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+C:\programming\NYTeamFCUHBKSite\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.XmlSerializers.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\TF.ALL.FixedRecordV1.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.MoneyDesktop.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.PendingTransactions.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\TF.ALL.FixedRecordV1.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2010\HomebankingSiteNYTEAM\HomeBankingSite\bin\TF.ALL.FixedRecordV1.xml
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.PendingTransactions.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.MoneyDesktop.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.dll
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.xml
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\HomeBankingSite.dll
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\HomeBankingSite.pdb
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\HomeBankingSite.xml
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Tf.All.dll
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\TF.ALL.FixedRecordV1.dll
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Interop.INKLib.dll
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\AxInterop.INKLib.dll
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\CMDotNetEng.dll
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Interop.tfXML.dll
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\AxInterop.SIGPLUSLib.dll
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\tf.Zip.dll
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Interop.SIGPLUSLib.dll
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Tf.All.pdb
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Tf.All.xml
+I:\TFSOLDSERVICE\HBK\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\TF.ALL.FixedRecordV1.pdb
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.PendingTransactions.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.MoneyDesktop.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.xml
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\HomeBankingSite.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\HomeBankingSite.pdb
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\HomeBankingSite.xml
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\AxInterop.INKLib.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\AxInterop.SIGPLUSLib.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\CMDotNetEng.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Interop.INKLib.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Interop.SIGPLUSLib.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Interop.tfXML.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\sis.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Tf.All.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Tf.All.FixedRecordV1.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\tf.Zip.dll
+I:\TFS\homebanking2008\CONVERTING\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\vsControlsLib.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\HomeBankingSite.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\HomeBankingSite.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\HomeBankingSite.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Tf.All.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Tf.All.FixedRecordV1.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Tf.All.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Tf.All.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\vsControlsLib.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\vsControlsLib.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Tf.All.FixedRecordV1.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\bin\Tf.All.FixedRecordV1.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.PendingTransactions.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.MoneyDesktop.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteGreaterOzarks\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TCP.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfGlobals.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfLog.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.Sql.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfGlobals.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfGlobals.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.Sql.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.Sql.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TCP.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TCP.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfLog.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfLog.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.pdb
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.PendingTransactions.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.MoneyDesktop.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.dll
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.xml
+I:\TFS\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.PendingTransactions.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.MoneyDesktop.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.dll
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.xml
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.dll
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.pdb
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.xml
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.dll
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.dll
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TCP.dll
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfGlobals.dll
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfLog.dll
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.dll
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.Sql.dll
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfGlobals.pdb
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfGlobals.xml
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.Sql.pdb
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.Sql.xml
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.pdb
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.xml
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TCP.pdb
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TCP.xml
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfLog.pdb
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfLog.xml
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.pdb
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.xml
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.pdb
+I:\TFS 2012 Moved to Bkup Dont Change\homebanking2008\HomebankingSites\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\HomeBankingSite.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\AxInterop.INKLib.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\AxInterop.SIGPLUSLib.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\CMDotNetEng.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Interop.INKLib.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Interop.SIGPLUSLib.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Interop.tfXML.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\sis.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TCP.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfGlobals.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfLog.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\tf.Zip.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.Sql.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfGlobals.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfGlobals.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.Sql.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.Sql.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\sis.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TCP.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TCP.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\tf.Zip.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfLog.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.TfLog.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.PendingTransactions.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.MoneyDesktop.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteNYTEAM\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.PendingTransactions.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.MoneyDesktop.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\HomeBankingSite.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\HomeBankingSite.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\HomeBankingSite.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\AxInterop.INKLib.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\AxInterop.SIGPLUSLib.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\CMDotNetEng.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Interop.INKLib.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Interop.SIGPLUSLib.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Interop.tfXML.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\sis.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.TCP.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.TfGlobals.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.TfLog.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\tf.Zip.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.Sql.dll
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.TfGlobals.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.TfGlobals.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.Sql.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.Sql.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\sis.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.TCP.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.TCP.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\tf.Zip.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.TfLog.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.TfLog.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.vsControlsLib.xml
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.pdb
+I:\TFS 2013\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\Tf.AllV2.FixedRecordV1.xml
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\HomeBankingSite.dll
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\HomeBankingSite.pdb
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\bin\HomeBankingSite.xml
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.PendingTransactions.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.MoneyDesktop.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.dll
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.xml
+C:\Users\Ichimaru\Documents\TerraFirma\TerraFirmaInHouse\mobile-b\HBK\HBK\HomeBankingSites2012\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.pdb
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\bin\HomeBankingSite.dll
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\bin\HomeBankingSite.pdb
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\bin\HomeBankingSite.xml
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.PendingTransactions.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.MoneyDesktop.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.dll
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.xml
+C:\wamp\www\HomebankingSiteWICU\HomeBankingSite\obj\Release\HomeBankingSite.pdb

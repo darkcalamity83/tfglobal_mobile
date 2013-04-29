@@ -1,0 +1,93 @@
+.PnlList
+{
+	/*margin:10px;*/
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+	width:100%;
+}
+.PnlList A
+{
+	/*width:100%;*/
+    width: auto;
+	padding:1px;
+	padding-top:3px;
+	/*font-size:small;*/
+}
+.PnlList A:Hover
+{
+	background:#E2F4FF;
+	color:Black;
+	border:solid 1px #65C3FF;
+	padding:0;
+	padding-top:2px;
+}
+.PnlList Table
+{
+	/*width: 100%;*/
+    width: 100%;
+    
+}
+.PnlList Table Table
+{
+    width: 100%;
+	border:solid 2px #A4D89D;
+    
+
+	border-left:0;
+}
+.PnlList Table Table TD
+{
+	/*border-left:solid 1px #A4D89D;*/
+	padding-left:3px;
+	padding-right:3px;
+    width: auto;
+}
+.PnlList .Row1
+{
+	background:#EFFFED;
+    
+}
+.PnlList .Row2
+{
+	background:#FFF;
+    
+}
+
+/*new style for div for divider for mobile*/
+.mobile {
+
+}
+
+ .mobile div {
+        background: #A4D89D;
+        width: 100%;
+        height: 30%;
+    }
+ .mobile td {
+         border:none;
+         border-left: none;
+    }
+
+.PnlList TH
+{
+	background:#A4D89D url(Imgs/DtlBar.gif) repeat-x top left;
+	border-left:solid 1px #A4D89D;
+	padding:3px;
+	/*font-size:smaller;*/
+}
+.Tab
+{
+	background:#FFF url(Imgs/MbrTab.gif) repeat-y bottom left;
+	padding:3px;
+	border-left:solid 1px #A4D89D;
+	padding-left:5px;
+}
+.PnlList Img
+{
+	vertical-align:middle;
+}
+
+@-viewport {
+width: auto;
+}

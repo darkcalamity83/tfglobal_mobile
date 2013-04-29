@@ -1,0 +1,61 @@
+.PnlList
+{
+	margin:10px;
+	width:100%;
+}
+.PnlList A
+{
+	width:100%;
+	padding:1px;
+	padding-top:3px;
+	font-size:small;
+}
+.PnlList A:Hover
+{
+	background:#E2F4FF;
+	color:Black;
+	border:solid 1px #65C3FF;
+	padding:0;
+	padding-top:2px;
+}
+.PnlList Table
+{
+	width:100%;
+}
+.PnlList Table Table
+{
+	border:solid 1px #A4D89D;
+	border-left:0;
+}
+.PnlList Table Table TD
+{
+	border-left:solid 1px #A4D89D;
+	padding-left:3px;
+	padding-right:3px;
+}
+.PnlList .Row1
+{
+	background:#EFFFED;
+}
+.PnlList .Row2
+{
+	background:#FFF;
+}
+.PnlList TH
+{
+	background:#A4D89D url(Imgs/DtlBar.gif) repeat-x top left;
+	border-left:solid 1px #A4D89D;
+	padding:3px;
+	font-size:smaller;
+}
+.Tab
+{
+	background:#FFF url(Imgs/MbrTab.gif) repeat-y bottom left;
+	padding:3px;
+	border-left:solid 1px #A4D89D;
+	padding-left:5px;
+}
+.PnlList Img
+{
+	vertical-align:middle;
+}

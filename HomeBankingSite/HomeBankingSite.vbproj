@@ -1,0 +1,689 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F1ECD768-865F-4D1A-9081-02264E9E13EE}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>HomeBankingSite</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>HomeBankingSite</RootNamespace>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>HomeBankingSite.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>HomeBankingSite.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>Full</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.INKLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\AxInterop.INKLib.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.SIGPLUSLib, Version=2.23.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\AxInterop.SIGPLUSLib.dll</HintPath>
+    </Reference>
+    <Reference Include="CMDotNetEng, Version=1.0.3204.27827, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\CMDotNetEng.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.INKLib, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\Interop.INKLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.SIGPLUSLib, Version=2.23.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\Interop.SIGPLUSLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.tfXML, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\Interop.tfXML.dll</HintPath>
+    </Reference>
+    <Reference Include="sis, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\sis.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Tf.AllV2, Version=2.10.4408.21376, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\Tf.AllV2.dll</HintPath>
+    </Reference>
+    <Reference Include="Tf.AllV2.FixedRecordV1, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\Tf.AllV2.FixedRecordV1.dll</HintPath>
+    </Reference>
+    <Reference Include="Tf.AllV2.TCP, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\Tf.AllV2.TCP.dll</HintPath>
+    </Reference>
+    <Reference Include="Tf.AllV2.TfGlobals, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\Tf.AllV2.TfGlobals.dll</HintPath>
+    </Reference>
+    <Reference Include="Tf.AllV2.TfLog, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\Tf.AllV2.TfLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Tf.AllV2.vsControlsLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\Tf.AllV2.vsControlsLib.dll</HintPath>
+    </Reference>
+    <Reference Include="tf.Zip, Version=1.0.2999.14152, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Library.Net\DLL\tf.Zip.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.HtmlControls" />
+    <Import Include="System.Web.UI.WebControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Activation.aspx" />
+    <Content Include="Bals.css" />
+    <Content Include="Help\eDisclosure.css" />
+    <Content Include="ErrorPage.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Hbk.js" />
+    <Content Include="HBKey\Apples.jpg" />
+    <Content Include="HBKey\Arch.jpg" />
+    <Content Include="HBKey\Boat.jpg" />
+    <Content Include="HBKey\Bridge.jpg" />
+    <Content Include="HBKey\Bridge1.jpg" />
+    <Content Include="HBKey\Bus.jpg" />
+    <Content Include="HBKey\Butterfly.jpg" />
+    <Content Include="HBKey\Cone.jpg" />
+    <Content Include="HBKey\Eggs.jpg" />
+    <Content Include="HBKey\Hammer.jpg" />
+    <Content Include="HBKey\LightHouse.jpg" />
+    <Content Include="HBKey\Lightning.jpg" />
+    <Content Include="HBKey\Monitor.jpg" />
+    <Content Include="HBKey\Peach.jpg" />
+    <Content Include="HBKey\Phone.jpg" />
+    <Content Include="HBKey\Printer.jpg" />
+    <Content Include="HBKey\Tiger.jpg" />
+    <Content Include="HBKey\Tornado.jpg" />
+    <Content Include="HBKey\Truck.jpg" />
+    <Content Include="HBKey\Watermelon.jpg" />
+    <Content Include="HBKey\Wrench.jpg" />
+    <Content Include="Help\Activation.htm" />
+    <Content Include="Help\Balances.htm" />
+    <Content Include="Help\ChangeLogin.htm" />
+    <Content Include="Help\eDisclosure.htm" />
+    <Content Include="Help\Help.css" />
+    <Content Include="Help\History.htm" />
+    <Content Include="Help\LoanApp.htm" />
+    <Content Include="Help\LockAccount.htm" />
+    <Content Include="Help\LoginHelp.aspx" />
+    <Content Include="Help\Login.htm" />
+    <Content Include="Help\Question.gif" />
+    <Content Include="Help\Requests.htm" />
+    <Content Include="Help\StatementsSignUp.htm" />
+    <Content Include="Help\StopChecks.htm" />
+    <Content Include="Help\Transfer.htm" />
+    <Content Include="Help\Withdrawal.htm" />
+    <Content Include="Hist.css" />
+    <Content Include="Imgs\BlueBar.gif" />
+    <Content Include="Imgs\Btn.gif" />
+    <Content Include="Imgs\BtnHelp.gif" />
+    <Content Include="Imgs\DtlBar.gif" />
+    <Content Include="Imgs\DtlBarTan.gif" />
+    <Content Include="Imgs\Error.gif" />
+    <Content Include="Imgs\HbkLogo.gif" />
+    <Content Include="Imgs\HbkLogoOld.gif" />
+    <Content Include="Imgs\HbkTxt.gif" />
+    <Content Include="Imgs\HistTab.gif" />
+    <Content Include="Imgs\Info.gif" />
+    <Content Include="Imgs\InfoBG.gif" />
+    <Content Include="Imgs\Input.gif" />
+    <Content Include="Imgs\MbrTab.gif" />
+    <Content Include="Imgs\Next.gif" />
+    <Content Include="Imgs\Reset.gif" />
+    <Content Include="Imgs\Security.gif" />
+    <Content Include="Imgs\TtlBar.gif" />
+    <Content Include="Imgs\view.gif" />
+    <Content Include="Imgs\WinBar.gif" />
+    <Content Include="Imgs\WinBg.gif" />
+    <Content Include="LoanApp2.aspx" />
+    <Content Include="Logout.aspx" />
+    <Content Include="MainTemplete.aspx" />
+    <Content Include="ProcessOSRequest.aspx" />
+    <Content Include="Render.ascx" />
+    <Content Include="Balances2.aspx" />
+    <Content Include="ChangeLogin.aspx" />
+    <Content Include="History.aspx" />
+    <Content Include="Requests.aspx" />
+    <Content Include="SignIn.aspx" />
+    <Content Include="Tbar\Request.gif" />
+    <Content Include="Tbar\Statement.gif" />
+    <Content Include="Transfer.aspx" />
+    <Content Include="ViewCheckEmpireCorp.aspx" />
+    <Content Include="ViewStatement.aspx" />
+    <Content Include="Styles.css" />
+    <Content Include="Tbar\Bal.gif" />
+    <Content Include="Tbar\BillPay.gif" />
+    <Content Include="Tbar\ChangePass.gif" />
+    <Content Include="Tbar\Close.gif" />
+    <Content Include="Tbar\Hist.gif" />
+    <Content Include="Tbar\Loan.gif" />
+    <Content Include="Tbar\LockAccount.gif" />
+    <Content Include="Tbar\Logout.gif" />
+    <Content Include="Tbar\Mbr.gif" />
+    <Content Include="Tbar\Stop.gif" />
+    <Content Include="Tbar\Wtd.gif" />
+    <Content Include="Tbar\Xfr.gif" />
+    <Compile Include="Activation.aspx.designer.vb">
+      <DependentUpon>Activation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Activation.aspx.vb">
+      <DependentUpon>Activation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BillPay.aspx.designer.vb">
+      <DependentUpon>BillPay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BillPay.aspx.vb">
+      <DependentUpon>BillPay.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="HBK.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LoanApp2.aspx.designer.vb">
+      <DependentUpon>LoanApp2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoanApp2.aspx.vb">
+      <DependentUpon>LoanApp2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewCheckAlloya.aspx.designer.vb">
+      <DependentUpon>ViewCheckAlloya.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewCheckAlloya.aspx.vb">
+      <DependentUpon>ViewCheckAlloya.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="MobilePages\MobileAnnouncementsP.aspx.designer.vb">
+      <DependentUpon>MobileAnnouncementsP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MobilePages\MobileAnnouncementsP.aspx.vb">
+      <DependentUpon>MobileAnnouncementsP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MobilePages\MobileBalancesP.aspx.designer.vb">
+      <DependentUpon>MobileBalancesP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MobilePages\MobileBalancesP.aspx.vb">
+      <DependentUpon>MobileBalancesP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MobilePages\MobileChangeLoginP.aspx.designer.vb">
+      <DependentUpon>MobileChangeLoginP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MobilePages\MobileChangeLoginP.aspx.vb">
+      <DependentUpon>MobileChangeLoginP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MobilePages\MobileHistoryP.aspx.designer.vb">
+      <DependentUpon>MobileHistoryP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MobilePages\MobileHistoryP.aspx.vb">
+      <DependentUpon>MobileHistoryP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MobilePages\MobileLoginPage.aspx.designer.vb">
+      <DependentUpon>MobileLoginPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MobilePages\MobileLoginPage.aspx.vb">
+      <DependentUpon>MobileLoginPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MobilePages\MobilePasswordP.aspx.designer.vb">
+      <DependentUpon>MobilePasswordP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MobilePages\MobilePasswordP.aspx.vb">
+      <DependentUpon>MobilePasswordP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MobilePages\MobileTransfersP.aspx.designer.vb">
+      <DependentUpon>MobileTransfersP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MobilePages\MobileTransfersP.aspx.vb">
+      <DependentUpon>MobileTransfersP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PendingTransactions.aspx.designer.vb">
+      <DependentUpon>PendingTransactions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PendingTransactions.aspx.vb">
+      <DependentUpon>PendingTransactions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MoneyDesktop.aspx.designer.vb">
+      <DependentUpon>MoneyDesktop.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MoneyDesktop.aspx.vb">
+      <DependentUpon>MoneyDesktop.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DownloadingPage.aspx.designer.vb">
+      <DependentUpon>DownloadingPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DownloadingPage.aspx.vb">
+      <DependentUpon>DownloadingPage.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ErrorPage.aspx.designer.vb">
+      <DependentUpon>ErrorPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorPage.aspx.vb">
+      <DependentUpon>ErrorPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Help\LoginHelp.aspx.designer.vb">
+      <DependentUpon>LoginHelp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Help\LoginHelp.aspx.vb">
+      <DependentUpon>LoginHelp.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="LoginWebSafe.aspx.designer.vb">
+      <DependentUpon>LoginWebSafe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginWebSafe.aspx.vb">
+      <DependentUpon>LoginWebSafe.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Logout.aspx.designer.vb">
+      <DependentUpon>Logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Logout.aspx.vb">
+      <DependentUpon>Logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MainTemplete.aspx.designer.vb">
+      <DependentUpon>MainTemplete.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MainTemplete.aspx.vb">
+      <DependentUpon>MainTemplete.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="MobileTestP.aspx.designer.vb">
+      <DependentUpon>MobileTestP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MobileTestP.aspx.vb">
+      <DependentUpon>MobileTestP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="OnlineStatements.aspx.designer.vb">
+      <DependentUpon>OnlineStatements.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OnlineStatements.aspx.vb">
+      <DependentUpon>OnlineStatements.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StopChecks.aspx.designer.vb">
+      <DependentUpon>StopChecks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StopChecks.aspx.vb">
+      <DependentUpon>StopChecks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Withdrawal.aspx.designer.vb">
+      <DependentUpon>Withdrawal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Withdrawal.aspx.vb">
+      <DependentUpon>Withdrawal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PasswordWebSafe.aspx.designer.vb">
+      <DependentUpon>PasswordWebSafe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordWebSafe.aspx.vb">
+      <DependentUpon>PasswordWebSafe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PrintHistoryFreindly.aspx.designer.vb">
+      <DependentUpon>PrintHistoryFreindly.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PrintHistoryFreindly.aspx.vb">
+      <DependentUpon>PrintHistoryFreindly.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ProcessOSRequest.aspx.designer.vb">
+      <DependentUpon>ProcessOSRequest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessOSRequest.aspx.vb">
+      <DependentUpon>ProcessOSRequest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Render.ascx.designer.vb">
+      <DependentUpon>Render.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Render.ascx.vb">
+      <DependentUpon>Render.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Balances2.aspx.designer.vb">
+      <DependentUpon>Balances2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Balances2.aspx.vb">
+      <DependentUpon>Balances2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangeLogin.aspx.designer.vb">
+      <DependentUpon>ChangeLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeLogin.aspx.vb">
+      <DependentUpon>ChangeLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="History.aspx.designer.vb">
+      <DependentUpon>History.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="History.aspx.vb">
+      <DependentUpon>History.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Requests.aspx.designer.vb">
+      <DependentUpon>Requests.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Requests.aspx.vb">
+      <DependentUpon>Requests.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SignIn.aspx.designer.vb">
+      <DependentUpon>SignIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SignIn.aspx.vb">
+      <DependentUpon>SignIn.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="test123.aspx.designer.vb">
+      <DependentUpon>test123.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="test123.aspx.vb">
+      <DependentUpon>test123.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Transfer.aspx.designer.vb">
+      <DependentUpon>Transfer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer.aspx.vb">
+      <DependentUpon>Transfer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewCheckEmpireCorp.aspx.designer.vb">
+      <DependentUpon>ViewCheckEmpireCorp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewCheckEmpireCorp.aspx.vb">
+      <SubType>ASPXCodebehind</SubType>
+      <DependentUpon>ViewCheckEmpireCorp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewStatement.aspx.designer.vb">
+      <DependentUpon>ViewStatement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewStatement.aspx.vb">
+      <SubType>ASPXCodebehind</SubType>
+      <DependentUpon>ViewStatement.aspx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Activation.aspx.resx">
+      <DependentUpon>Activation.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoanApp2.aspx.resx">
+      <DependentUpon>LoanApp2.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingTransactions.aspx.resx">
+      <DependentUpon>PendingTransactions.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoneyDesktop.aspx.resx">
+      <DependentUpon>MoneyDesktop.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrorPage.aspx.resx">
+      <DependentUpon>ErrorPage.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Global.asax.resx">
+      <DependentUpon>Global.asax.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logout.aspx.resx">
+      <DependentUpon>Logout.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OnlineStatements.aspx.resx">
+      <DependentUpon>OnlineStatements.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StopChecks.aspx.resx">
+      <DependentUpon>StopChecks.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Withdrawal.aspx.resx">
+      <DependentUpon>Withdrawal.aspx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcessOSRequest.aspx.resx">
+      <DependentUpon>ProcessOSRequest.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Render.ascx.resx">
+      <DependentUpon>Render.ascx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Balances2.aspx.resx">
+      <DependentUpon>Balances2.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeLogin.aspx.resx">
+      <DependentUpon>ChangeLogin.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="History.aspx.resx">
+      <DependentUpon>History.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Requests.aspx.resx">
+      <DependentUpon>Requests.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer.aspx.resx">
+      <DependentUpon>Transfer.aspx.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Help\NoActivity.pdf" />
+    <None Include="Help\Test.pdf" />
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="ViewCheckAlloya.aspx" />
+    <Content Include="MobilePages\MobileAnnouncementsP.aspx" />
+    <Content Include="MobilePages\MobileBalancesP.aspx" />
+    <Content Include="MobilePages\MobileChangeLoginP.aspx" />
+    <Content Include="MobilePages\MobileHistoryP.aspx" />
+    <Content Include="MobilePages\MobileLoginPage.aspx" />
+    <Content Include="MobilePages\MobilePasswordP.aspx" />
+    <Content Include="MobilePages\MobileTransfersP.aspx" />
+    <Content Include="PendingTransactions.aspx" />
+    <Content Include="MoneyDesktop.aspx" />
+    <Content Include="DownloadingPage.aspx" />
+    <Content Include="Help\estatements.htm" />
+    <Content Include="Help\Password.htm" />
+    <Content Include="Help\Signin.htm" />
+    <Content Include="BillPay.aspx" />
+    <Content Include="Imgs\Logo.bmp" />
+    <Content Include="Imgs\popupblocker.bmp" />
+    <Content Include="LoginWebSafe.aspx" />
+    <Content Include="MobileTestP.aspx" />
+    <Content Include="OnlineStatements.aspx" />
+    <Content Include="StopChecks.aspx" />
+    <Content Include="Withdrawal.aspx" />
+    <Content Include="PasswordWebSafe.aspx" />
+    <Content Include="PrintHistoryFreindly.aspx" />
+    <Content Include="test123.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="OptionalPages\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>False</AutoAssignPort>
+          <DevelopmentServerPort>3860</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/HomeBanking</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

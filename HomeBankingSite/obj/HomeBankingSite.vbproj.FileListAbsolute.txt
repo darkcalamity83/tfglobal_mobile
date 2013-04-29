@@ -1,0 +1,80 @@
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\bin\HomeBankingSite.dll
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\bin\HomeBankingSite.pdb
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\bin\HomeBankingSite.xml
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\bin\vs.ClientIO.dll
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\bin\vs.Sys.dll
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\bin\vs.TCP.dll
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\bin\vs.TCP.NetTalk.dll
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\bin\vs.ClientIO.pdb
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\ResolveAssemblyReference.cache
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.Activation.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.ErrorPage.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.Global.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.Login.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.Logout.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.Password.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.ProcessOSRequest.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.Render.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.Balances.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.ChangeLogin.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.History.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.LoanApp.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.LockAccount.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.OnlineStatements.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.Requests.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.StopChecks.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.Transfer.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.Withdrawal.resources
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.vbproj.GenerateResource.Cache
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.dll
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.xml
+C:\Visionaire\Apps\Terra Firma\HomeBanking\HomeBankingSite\obj\Debug\HomeBankingSite.pdb
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\HomeBankingSite.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\HomeBankingSite.xml
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\ResolveAssemblyReference.cache
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.Activation.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.ErrorPage.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.Global.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.Login.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.Logout.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.Password.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.ProcessOSRequest.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.Render.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.Balances.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.ChangeLogin.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.History.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.LoanApp.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.LockAccount.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.OnlineStatements.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.Requests.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.StopChecks.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.Transfer.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.Withdrawal.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.vbproj.GenerateResource.Cache
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.xml
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Debug\HomeBankingSite.pdb
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\ResolveAssemblyReference.cache
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Activation.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.ErrorPage.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Global.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Login.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Logout.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Password.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.ProcessOSRequest.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Render.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Balances.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.ChangeLogin.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.History.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.LoanApp.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.LockAccount.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.OnlineStatements.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Requests.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.StopChecks.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Transfer.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.Withdrawal.resources
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.vbproj.GenerateResource.Cache
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.dll
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.xml
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\bin\HomeBankingSite.pdb
+C:\TFIT Rel 2010\Vb.Net\Apps\HomeBanmingNYTEAM\HomebankingSite\HomeBankingSite\obj\Release\HomeBankingSite.pdb

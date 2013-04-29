@@ -1,0 +1,16 @@
+BODY
+{
+	background: #FDFAF0 no-repeat bottom right scroll;
+	border: 2px;
+	border-style: double;
+	color: #000;
+	font-family: Arial;
+	font-size: small;
+	text-align: left;
+	height: 300px;
+    width: 100%;
+}
+
+@-viewport {
+width: 100%;
+}

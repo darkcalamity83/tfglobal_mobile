@@ -1,0 +1,11 @@
+BODY
+{
+	background: #FDFAF0 no-repeat bottom right scroll;
+	border: 2;
+	border-style: double;
+	color: #000;
+	font-family: Arial;
+	font-size: small;
+	text-align: left;
+	height: 300px;
+}

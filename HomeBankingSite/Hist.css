@@ -1,0 +1,99 @@
+/* Added style to display body width propertly for mobile devices
+    */
+Body
+{
+    width: auto;
+}
+.PnlList
+{
+	margin:10px;
+	width:100%;
+}
+.PnlList A
+{
+	padding:4px;
+	font-size:small;
+	color:white;
+	height:25px;
+}
+.PnlList A:Hover
+{
+	color:#000;
+	background:#A4D89D url(Imgs/DtlBar.gif) repeat-x top left;
+	padding:3px;
+	border:solid 1px #A4D89D;
+}
+
+.viewCheck a
+{
+	color:blue;
+	height:auto;
+	padding:4px;
+}
+
+.viewCheck a:hover
+{
+	color:red;
+	background-image:none;
+	background-color:Transparent;
+	border:none;
+	height:auto;
+	padding:4px;
+}
+
+.PnlList Table
+{
+	width:100%;
+}
+.PnlList Table Table
+{
+	border:solid 1px #C0B9A1;
+	border-left:0;
+}
+.PnlList Table Table TD
+{
+	border-left:solid 1px #C0B9A1;
+	padding:3px;
+    
+ }
+.PnlList .Row1
+{
+	background:#F4EED8;
+}
+.PnlList .Row2
+{
+	background:#FFF;
+
+}
+/*Added code for history page for mobile app*/
+
+ .alttd td {
+    background-color: white;
+}
+
+.PnlList TH
+{
+	background:#EBE7D9 url(Imgs/DtlBarTan.gif) repeat-x top left;
+	border-left:solid 1px #C0B9A1;
+	padding:3px;
+	font-size:smaller;
+}
+.Tab
+{
+	background:#FFF url(Imgs/HistTab.gif) repeat-y bottom left;
+	padding:2px;
+	border-left:solid 1px #C0B9A1;
+	padding-left:2px;
+    width: 10%;
+    
+}
+.Tab td {
+        width: 15%;
+    }
+
+
+.PnlList Img
+{
+	vertical-align:middle;
+}
+

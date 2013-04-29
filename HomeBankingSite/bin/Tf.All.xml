@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Tf.All
+</name>
+</assembly>
+<members>
+<member name="P:Tf.All.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Tf.All.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Tf.All.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Tf.All.Sql.Subs.funGetSqlFld(System.Object,System.String)">
+	<summary> 
+pType (d=decimal,i=int,l=long,date=date,s=String,default is string) 
+</summary>
+</member>
+</members>
+</doc>
